@@ -8,5 +8,5 @@ ___
 
 ###### 1- I am a coding student at Orange Coding Academy.
 ###### 2- I have worked as laboratory technician for 2 years .
-###### 3- I am changing my major and my job and puruing my technical passion.
+###### 3- I am changing my major, my job and pursuing my technical passion.
 ###### 4- I work part time with OneForma as a translator.
